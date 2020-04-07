@@ -1,4 +1,4 @@
-
+ c b 6yctg 
 # Square Array
 
 ## Objectives
